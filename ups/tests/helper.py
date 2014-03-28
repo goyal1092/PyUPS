@@ -4,7 +4,7 @@
 
     General Test Helpers
 
-    :copyright: (c) 2011 by Openlabs Technologies & Consulting (P) Limited
+    :copyright: (c) 2011-2014 by Openlabs Technologies & Consulting (P) Limited
     :license: AGPL, see LICENSE for more details.
 """
 from ups.shipping_package import ShipmentConfirm
@@ -87,7 +87,7 @@ class ShippingPackageHelper(object):
                 AddressLine1="205, Copper Gate House",
                 AddressLine2="16 Brune Street",
                 City="London",
-                #StateProvinceCode="E1 7NJ",
+                # StateProvinceCode="E1 7NJ",
                 CountryCode="GB",
                 PostalCode="E1 7NJ"
             )

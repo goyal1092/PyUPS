@@ -2,7 +2,7 @@
 """
     shipping_package
 
-    :copyright: (c) 2011 by Openlabs Technologies & Consulting (P) Limited
+    :copyright: (c) 2011-2014 by Openlabs Technologies & Consulting (P) Limited
     :copyright: (c) 2010 by Sharoon Thomas.
     :copyright: (c) 2011 by United Parcel Service of America (Documentation)
     :license: AGPL, see LICENSE for more details.
