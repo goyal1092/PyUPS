@@ -10,7 +10,7 @@
         then then you cannot test packages with that account originating from
         the USA.
 
-    :copyright: (c) 2011-2014 by Openlabs Technologies & Consulting (P) Limited
+    :copyright: (c) 2011 by Openlabs Technologies & Consulting (P) Limited
     :license: AGPL, see LICENSE for more details.
 """
 import os

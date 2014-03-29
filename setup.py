@@ -3,7 +3,7 @@
 '''
     Pythonic API to UPS® Shipping Services
 
-    :copyright: (c) 2010-2014 by Openlabs Technologies & Consulting (P) LTD
+    :copyright: (c) 2010-2013 by Openlabs Technologies & Consulting (P) LTD
     :copyright: (c) 2010 by Sharoon Thomas.
     :license: AGPL, see LICENSE for more details
 '''
